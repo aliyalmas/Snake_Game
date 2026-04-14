@@ -4,11 +4,11 @@ Snake Game is a classic and interactive desktop game where players control a sna
 
 Built using Python, this project recreates the nostalgic arcade experience with simple controls and engaging gameplay.
 
-##🌐 Project Demo
+## Project Demo
 
 (Add a screenshot of your game here if available)
 
-##🎮 How to Play
+## How to Play
 The snake moves continuously on the screen
 - Control the snake using keyboard keys:
 ⬆️ Up
@@ -21,7 +21,7 @@ Hitting the walls
 Colliding with your own body
 The game ends when a collision occurs
 
-##✨ Features
+## Features
 - Snake movement control
 - Random food generation
 - Score tracking
@@ -29,10 +29,10 @@ The game ends when a collision occurs
 - Game over system
 - Simple and clean gameplay
 
-##🛠️ Technologies Used
+## Technologies Used
 - Python
 
-##⚙️ Installation and Usage
+## Installation and Usage
 
 To run this project locally:
 
@@ -49,17 +49,17 @@ cd Snake_Game
 python main.py
 ```
 
-##🚀 Project Highlights
+## Project Highlights
 - Implemented game logic using Python
 - Practiced problem-solving and logic building
 - Built an interactive game from scratch
 - Focused on user experience and smooth controls
 
-##🙌 Acknowledgments
+## Acknowledgments
 - Inspired by the classic Snake Game
 - Built as part of learning Python fundamentals
 
-##👩‍💻 Author
+## Author
 
 Aliya Almas
 
