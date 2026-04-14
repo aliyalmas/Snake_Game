@@ -1,4 +1,69 @@
-# Snake_Game
-The Snake Game I developed during my second year of engineering is a simple yet engaging project that demonstrates fundamental concepts of game development using Python. The game is built with **Python** and utilizes the **Pygame library** to handle graphics and game logic. The player controls a snake that moves in a grid-based environment, consuming food to grow in length while avoiding collisions with itself and the screen borders. The game starts with a small snake that moves in a predefined direction, and the player can change its course using keyboard inputs. Each time the snake eats food, its length increases, and the score is updated accordingly. The game's mechanics rely on an **event-driven approach**, where keypress events determine the snake's movement. The **game loop** ensures smooth motion, checks for collisions, and continuously updates the display. **Randomization** is used to generate food at different locations on the screen, making the gameplay dynamic. The project also features a simple **score system** that keeps track of the player's performance. Overall, this project helped me strengthen my understanding of **game logic, event handling, and real-time graphics**, while also enhancing my Python programming skills in a fun and interactive way.
-![WhatsApp Image 2025-02-21 at 2 11 44 PM](https://github.com/user-attachments/assets/d817fdd3-9cae-4bc6-964f-e39d0f62d05d)
-![WhatsApp Image 2025-02-21 at 2 09 21 PM](https://github.com/user-attachments/assets/11609716-8b48-460d-bfe2-c2c2f2e48a41)
+## 🐍 Snake Game - Python
+## Overview
+Snake Game is a classic and interactive desktop game where players control a snake to collect food and grow longer while avoiding collisions.
+
+Built using Python, this project recreates the nostalgic arcade experience with simple controls and engaging gameplay.
+
+##🌐 Project Demo
+
+(Add a screenshot of your game here if available)
+
+##🎮 How to Play
+The snake moves continuously on the screen
+- Control the snake using keyboard keys:
+⬆️ Up
+⬇️ Down
+⬅️ Left
+➡️ Right
+Eat the food to grow longer
+- Avoid:
+Hitting the walls
+Colliding with your own body
+The game ends when a collision occurs
+
+##✨ Features
+- Snake movement control
+- Random food generation
+- Score tracking
+- Collision detection
+- Game over system
+- Simple and clean gameplay
+
+##🛠️ Technologies Used
+- Python
+
+##⚙️ Installation and Usage
+
+To run this project locally:
+
+1. Clone the repository
+```sh
+git clone https://github.com/aliyalmas/Snake_Game.git
+```
+2. Navigate to the folder
+```sh
+cd Snake_Game
+```
+3. Run the project
+```sh
+python main.py
+```
+
+##🚀 Project Highlights
+- Implemented game logic using Python
+- Practiced problem-solving and logic building
+- Built an interactive game from scratch
+- Focused on user experience and smooth controls
+
+##🙌 Acknowledgments
+- Inspired by the classic Snake Game
+- Built as part of learning Python fundamentals
+
+##👩‍💻 Author
+
+Aliya Almas
+
+GitHub: 
+```sh
+https://github.com/aliyalmas
+```
